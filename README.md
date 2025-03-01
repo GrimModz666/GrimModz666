@@ -11,7 +11,7 @@ I’m **GrimModz666** - a passionate developer interested in reverse engineering
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GrimModz666&theme=dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=GrimModz666&color=purple)
+![Profile Views](https://komarev.com/ghpvc/?username=GrimModz666&color=blue)
 
 
 
