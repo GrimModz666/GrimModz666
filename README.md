@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**GrimModz666/GrimModz666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **GrimModz666** - a passionate developer interested in reverse engineering, cybersecurity, and software development.
 
-Here are some ideas to get you started:
+## 🚀 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GrimModz666&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=GrimModz666&theme=darkhub)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GrimModz666&theme=dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=GrimModz666&color=purple)
+
+
+
+### ⚡ Fun Facts
+- 🔹 I love working with low-level security exploits.
+- 🔹 Currently building a ChatApp in c, c#, c++.
+
+---
+## 📬 Let's Connect!
+[![Discord](https://img.shields.io/badge/Join%20our%20Discord-%235865F2.svg?logo=discord&logoColor=purple)](https://discord.gg/rZWb3Adq3K)
+
